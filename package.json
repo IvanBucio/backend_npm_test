@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Iwanovich",
+	"description": "This is a piece of shit to learn microservices in NPM to backend develop",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
